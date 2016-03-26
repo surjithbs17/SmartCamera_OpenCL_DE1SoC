@@ -1,0 +1,1 @@
+The image size causes the altera code to "break" and wrap around. The transform still works but wrap around does occur. The number of pixels iterated and thus the complexity of the workload remains the same.
